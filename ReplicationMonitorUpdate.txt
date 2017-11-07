@@ -2,11 +2,11 @@
 
 [Update]
 Name = ReplicationMonitorAdmin
-ProductVersion = 1.0.0.0
-URL = https://github.com/precisaosistemas/inovafarma-replication-monitor/releases/download/v1.0.0/ReplicationMonitor.exe
-Size = 48656659
-MD5 = dce5fc25020827c25b5236f038ff8db2
+ProductVersion = 1.0.1.0
+URL = https://github.com/precisaosistemas/inovafarma-replication-monitor/releases/download/v1.0.1/ReplicationMonitor.exe
+Size = 48656661
+MD5 = b3dc964ce8f8fc7f5dc486c48f5d5204
 ServerFileName = ReplicationMonitor.exe
 Flags = SilentInstall
 RegistryKey = HKUD\Software\InovaFarma\ReplicationMonitorAdmin\Version
-Version = 1.0.0.0
+Version = 1.0.1.0
