@@ -1,12 +1,12 @@
 ;aiu;
 
-[Update]
+[InovaFarmaMonitor]
 Name = InovaFarmaMonitor
-ProductVersion = 1.0.5.0
-URL = https://github.com/precisaosistemas/inovafarma-replication-monitor/releases/download/v1.0.5/InovaFarmaMonitor.exe
-Size = 97746135
-MD5 = 370ddcec09c490528637263bc565fd7f
+ProductVersion = 1.0.6.0
+URL = https://github.com/precisaosistemas/inovafarma-replication-monitor/releases/download/v1.0.6/InovaFarmaMonitor.exe
+Size = 52543344
+MD5 = 5f5e381ab58e75c1059e3e23a6925254
 ServerFileName = InovaFarmaMonitor.exe
 Flags = SilentInstall
 RegistryKey = HKUD\Software\InovaFarma\InovaFarmaMonitor\Version
-Version = 1.0.4.0
+Version = 1.0.6.0
