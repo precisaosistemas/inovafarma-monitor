@@ -2,12 +2,12 @@
 
 [Update]
 Name = INOVAFARMA Monitor
-ProductVersion = 1.10.20
-URL = https://github.com/precisaosistemas/inovafarma-monitor/releases/download/v1.10.20/inovafarma-monitor-1.10.20.exe
-Size = 82986552
-MD5 = f1f4a7f2ff9498555f70ee80232fe64c
+ProductVersion = 1.10.21
+URL = https://github.com/precisaosistemas/inovafarma-monitor/releases/download/v1.10.21/inovafarma-monitor-1.10.21.exe
+Size = 82987352
+MD5 = 4f9d31a2e6c38a2facab88051baa5d8f
 CommandLine = /exenoui /qn
-ServerFileName = inovafarma-monitor-1.10.20.exe
+ServerFileName = inovafarma-monitor-1.10.21.exe
 Flags = SilentInstall|NoRedetect
 RegistryKey = HKUD\Software\Precisao Sistemas\INOVAFARMA Monitor\Version
-Version = 1.10.20
+Version = 1.10.21
