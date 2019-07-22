@@ -2,12 +2,12 @@
 
 [Update]
 Name = INOVAFARMA Monitor
-ProductVersion = 1.12.6
-URL = https://github.com/precisaosistemas/inovafarma-monitor/releases/download/v1.12.6/inovafarma-monitor-1.12.6.exe
-Size = 59518648
-MD5 = 236ad6e784a27375548bd5299d0c462a
+ProductVersion = 1.13.0
+URL = https://github.com/precisaosistemas/inovafarma-monitor/releases/download/v1.13.0/inovafarma-monitor-1.13.0.exe
+Size = 59517624
+MD5 = bcb2203e9f674dedf1aa6028b1f20744
 CommandLine = /exenoui /qn
-ServerFileName = inovafarma-monitor-1.12.6.exe
+ServerFileName = inovafarma-monitor-1.13.0.exe
 Flags = SilentInstall|NoRedetect
 RegistryKey = HKUD\Software\Precisao Sistemas\INOVAFARMA Monitor\Version
-Version = 1.12.6
+Version = 1.13.0
