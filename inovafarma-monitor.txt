@@ -5,6 +5,7 @@ Name = INOVAFARMA Monitor
 ProductVersion = 1.13.5
 URL = https://github.com/precisaosistemas/inovafarma-monitor/releases/download/v1.13.5/inovafarma-monitor-1.13.5.exe
 Size = 58961112
+MD5 = f6bdef324366267b79f17f5b65e693a2
 CommandLine = /exenoui /qn
 ServerFileName = inovafarma-monitor-1.13.5.exe
 Flags = SilentInstall|NoRedetect
